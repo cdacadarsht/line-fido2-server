@@ -1,5 +1,8 @@
 {
   "build": {
     "root": "rpserver"
+  },
+  "deploy": {
+    "command": "./gradlew bootRun"
   }
 }
